@@ -1,0 +1,169 @@
+python
+java
+c
+c++
+c#
+javascript
+typescript
+go
+rust
+kotlin
+swift
+php
+r
+matlab
+scala
+
+sql
+mysql
+postgresql
+mongodb
+sqlite
+oracle
+redis
+cassandra
+dynamodb
+firebase
+
+machine learning
+deep learning
+nlp
+computer vision
+generative ai
+llm
+transformers
+bert
+gpt
+langchain
+rag
+prompt engineering
+tensorflow
+keras
+pytorch
+scikit-learn
+xgboost
+lightgbm
+catboost
+opencv
+spacy
+nltk
+hugging face
+
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scipy
+statistics
+data analysis
+data visualization
+feature engineering
+data cleaning
+
+flask
+django
+fastapi
+spring boot
+nodejs
+expressjs
+laravel
+asp.net
+rest api
+graphql
+
+html
+css
+bootstrap
+tailwind css
+javascript
+react
+nextjs
+angular
+vue
+svelte
+jquery
+
+docker
+kubernetes
+jenkins
+github actions
+terraform
+ansible
+nginx
+apache
+
+aws
+azure
+gcp
+ec2
+s3
+lambda
+cloud computing
+
+git
+github
+gitlab
+bitbucket
+linux
+unix
+bash
+shell scripting
+streamlit
+jupyter
+vscode
+
+data structures
+algorithms
+dsa
+oop
+object oriented programming
+dbms
+operating systems
+computer networks
+system design
+software engineering
+
+cyber security
+network security
+ethical hacking
+penetration testing
+cryptography
+
+tableau
+power bi
+excel
+spark
+hadoop
+kafka
+airflow
+
+selenium
+playwright
+pytest
+unittest
+
+android
+android studio
+flutter
+react native
+
+microservices
+distributed systems
+design patterns
+
+agile
+scrum
+
+problem solving
+competitive programming
+node js
+node.js
+
+next js
+next.js
+
+git hub
+
+machine-learning
+deep-learning
