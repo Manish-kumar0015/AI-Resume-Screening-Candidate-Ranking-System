@@ -1,6 +1,12 @@
 
 # 📄 AI Resume Screening & Candidate Ranking System
 
+## Live Demo
+https://manish-resume-screening.streamlit.app/
+
+## GitHub Repository
+https://github.com/Manish-kumar0015/AI-Resume-Screening-Candidate-Ranking-System
+
 An NLP-based Resume Screening System that ranks resumes against a Job Description using TF-IDF, Cosine Similarity, Skill Matching, and ATS Scoring.
 
 ---
